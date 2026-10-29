@@ -1,4 +1,4 @@
-# codex-sprint-harness
+# sprint
 
 시간 제한·감독형 AI 활용 과제를 Codex와 함께 푸는 페어 작업용 하네스.
 
@@ -7,7 +7,7 @@
 
 ## 사용
 ```sh
-git clone https://github.com/<owner>/codex-sprint-harness /tmp/h
+git clone https://github.com/Allyja/sprint /tmp/h
 sh /tmp/h/install.sh .
 codex
 ```
